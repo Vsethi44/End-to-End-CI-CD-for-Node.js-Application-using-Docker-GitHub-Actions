@@ -1,3 +1,5 @@
+Learning / lab project for practicing CI/CD and Docker fundamentals.
+
 # End-to-End CI/CD for Node.js Application using Docker & GitHub Actions
 
 ## Project Overview
